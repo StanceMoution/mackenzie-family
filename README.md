@@ -1,11 +1,6 @@
 ![я сосал меня ебали](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "ыы")
 
 ## Mackenzie family:
-+ *Crewkin*
-+ *Simon*
-+ *Dakota*
-+ *Beliar*
-+ *Laura*
 
 | Имя           | Роль          | Дата вступления |
 | :-----------: |:-------------:| :--------------:|
@@ -16,7 +11,7 @@
 | *Esther*      | Вдова         | 15.07.19        |
 | *Crewkin*     | Мать          | 28.10.19        |
 | *Simon*       | Мать          | 28.10.19        |
-| *Dakota*      | Мать          | 28.10.19        |
+| *Dakota*      | гей           | 28.10.19        |
 | *Beliar*      | Мать          | 28.10.19        |
 | *Laura*       | Мать          | 26.12.19        |
 
